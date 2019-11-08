@@ -1,6 +1,6 @@
 # toDo
 
-toDo is an intuitive and easy to use online Todo list and Task Manager. It helps you to get organized, simplify your life, and to get things done. Written using JavaScript (JQuery), HTML, and CSS. Built simply for learning purposes.
+toDo is an intuitive and easy to use online Todo list and Task Manager. It helps you to get organized and to get things done. Written using JavaScript (JQuery), HTML, and CSS. Built simply for learning purposes.
 
 ![](img.png)
 
