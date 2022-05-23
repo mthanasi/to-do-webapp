@@ -12,7 +12,7 @@ toDo is an intuitive and easy to use online Todo list and Task Manager. It helps
 
 ## Page published at:
 
-[https://mthanasi.github.io/toDo/](https://mthanasi.github.io/toDo/)
+[https://mthanasi.github.io/to-do-webapp/](https://mthanasi.github.io/to-do-webapp/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
