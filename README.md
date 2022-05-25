@@ -1,18 +1,19 @@
 # toDo
 
-toDo is an intuitive and easy to use online Todo list and Task Manager. It helps you to get organized and to get things done. Written using JavaScript (JQuery), HTML, and CSS. Built simply for learning purposes.
-
-<p align="center"> 
+toDo is an intuitive and easy to use online Todo list and Task Manager. It helps you to get organized and to get things done. Built with JQuery, HTML, and CSS.
+<p align="center">
  <img src="img.png">
 </p>
 
-## Features
+### Features
 
+* View tasks
 * Add, remove, strike-through tasks
 
-## Page published at:
+### Published on
 
 [https://mthanasi.github.io/to-do-webapp/](https://mthanasi.github.io/to-do-webapp/)
 
-## License
+### License
+
 [MIT](https://choosealicense.com/licenses/mit/)
